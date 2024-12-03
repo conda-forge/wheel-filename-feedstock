@@ -3,7 +3,7 @@ About wheel-filename-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/wheel-filename-feedstock/blob/main/LICENSE.txt)
 
-Home: https://github.com/jwodder/wheel-filename
+Home: https://github.com/wheelodex/wheel-filename
 
 Package license: MIT
 
