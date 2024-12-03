@@ -35,7 +35,7 @@ test:
     - python {{ python_min }}
 
 about:
-  home: https://github.com/jwodder/wheel-filename
+  home: https://github.com/wheelodex/wheel-filename
   summary: Parse wheel filenames
   license: MIT
   license_file: LICENSE
